@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe\\Documents\\ProjetosEstudos\\ModuloTestesDio\\Calculadora\\Calculadora.csproj": {}
+    "c:\\Users\\Felipe\\Documents\\ProjetosEstudos\\ModuloTestesDio\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe\\Documents\\ProjetosEstudos\\ModuloTestesDio\\Calculadora\\Calculadora.csproj": {
+    "c:\\Users\\Felipe\\Documents\\ProjetosEstudos\\ModuloTestesDio\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe\\Documents\\ProjetosEstudos\\ModuloTestesDio\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "c:\\Users\\Felipe\\Documents\\ProjetosEstudos\\ModuloTestesDio\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\Felipe\\Documents\\ProjetosEstudos\\ModuloTestesDio\\Calculadora\\Calculadora.csproj",
+        "projectPath": "c:\\Users\\Felipe\\Documents\\ProjetosEstudos\\ModuloTestesDio\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe\\Documents\\ProjetosEstudos\\ModuloTestesDio\\Calculadora\\obj\\",
+        "outputPath": "c:\\Users\\Felipe\\Documents\\ProjetosEstudos\\ModuloTestesDio\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
